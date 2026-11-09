@@ -1,4 +1,4 @@
-# Agentic Codespace
+# my-first-agent-codespace
 
 A GitHub Codespace with three AI coding agents installed with `npm install -g`:
 
